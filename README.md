@@ -1,6 +1,5 @@
-![image](https://github.com/user-attachments/assets/3212dd64-febe-464a-965c-cb870dd221b7)
+![image](https://github.com/user-attachments/assets/3212dd64-febe-464a-965c-cb870dd221b7) ![image](https://github.com/user-attachments/assets/856e765b-4ae5-44b3-a56a-4640bef00d4f)
 
-![image](https://github.com/user-attachments/assets/856e765b-4ae5-44b3-a56a-4640bef00d4f)
 Getting Started
 Prerequisites
 Make sure you have the following installed:
